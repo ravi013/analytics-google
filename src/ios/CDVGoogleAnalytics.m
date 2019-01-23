@@ -26,6 +26,7 @@
 
 #import "CDVGoogleAnalytics.h"
 @import FirebaseAnalytics;
+@import Firebase;
 
 @implementation CDVGoogleAnalytics
 
